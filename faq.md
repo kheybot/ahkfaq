@@ -578,7 +578,7 @@ Note: Recent versions of the AutoHotkey installer no longer include UPX or MPres
 * [UrlDownloadToFile](http://www.autohotkey.com/docs/commands/UrlDownloadToFile.htm) *AutoHotkey command*
 * [Basic Webpage Controls with JavaScript / COM - Tutorial](http://www.autohotkey.com/forum/topic51020.html) *Internet Explorer*
 * [Example of Navigating a Website](http://www.autohotkey.com/forum/viewtopic.php?t=42488)
-* [Remotely control Firefox](http://www.autohotkey.com/forum/topic46974.html) *with MozRepl addon*
+* Library: [Remotely control Firefox](http://www.autohotkey.com/forum/topic46974.html) - [Class](http://www.autohotkey.com/board/topic/92287-firefox-automation-with-mozrepl/) *with MozRepl addon* 
 * [Combine iMacros and Firefox](http://www.autohotkey.com/board/topic/88596-imacrosahk-library-for-automating-interaction-with-web-pages/)
 * [Retrieve AddressBar of Firefox, Internet Explorer or Opera through DDE Message](http://www.autohotkey.com/forum/topic19169.html)
 * [httpQuery GET and POST requests](http://www.autohotkey.com/forum/topic33506.html)
