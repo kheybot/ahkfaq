@@ -1,4 +1,4 @@
 ahkfaq
 ======
 
-Now available as Gist https://gist.github.com/kheybot/5935979
+Now available as Gist https://gist.github.com/kheybot/7026077
